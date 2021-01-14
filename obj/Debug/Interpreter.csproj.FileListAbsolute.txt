@@ -1,0 +1,7 @@
+D:\Учеба\interpreter\bin\Debug\Interpreter.exe.config
+D:\Учеба\interpreter\bin\Debug\Interpreter.exe
+D:\Учеба\interpreter\bin\Debug\Interpreter.pdb
+D:\Учеба\interpreter\obj\Debug\Interpreter.csprojAssemblyReference.cache
+D:\Учеба\interpreter\obj\Debug\Interpreter.csproj.CoreCompileInputs.cache
+D:\Учеба\interpreter\obj\Debug\Interpreter.exe
+D:\Учеба\interpreter\obj\Debug\Interpreter.pdb
